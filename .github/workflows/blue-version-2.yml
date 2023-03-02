@@ -2,7 +2,7 @@ name: blue-version-2
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # once every day
+    - cron: '0 2 * * *'  # once every day
 
 jobs:
   blue-post:
